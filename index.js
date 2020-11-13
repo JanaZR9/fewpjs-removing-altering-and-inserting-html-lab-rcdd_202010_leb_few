@@ -1,7 +1,7 @@
 // Write your code here!
 main.remove();
-var newHeader = document.createElement("h1#victory");
+var newHeader = document.createElement("h1");
 newHeader.innerHTML = "Jana is the champion";
 document.body.appendChild(newHeader);  
 
-//document.querySelector('h1').add('#victory');
+let header=document.querySelector('h1');
