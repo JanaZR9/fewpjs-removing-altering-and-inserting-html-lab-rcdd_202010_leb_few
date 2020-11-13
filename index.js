@@ -1,3 +1,4 @@
 // Write your code here!
-let i = document.getgetElementById("main #main");
+let a= document.
+let i = document.getgetElementById("#main");
 i.remove();
