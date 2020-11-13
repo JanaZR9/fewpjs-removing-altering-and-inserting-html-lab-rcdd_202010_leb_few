@@ -3,5 +3,4 @@ main.remove();
 var newHeader = document.createElement("h1");
 newHeader.innerHTML = "Jana is the champion";
 document.body.appendChild(newHeader);  
-
-let header=document.querySelector('h1');
+newHeader.classList.add('#victory');
